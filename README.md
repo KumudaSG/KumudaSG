@@ -1,4 +1,3 @@
-## Hi there 👋
 <!-- Futuristic Techy Themed GitHub Profile README for KumudaSG -->
 
 <div align="center">
@@ -6,7 +5,9 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-@AgentLab-00e0ff?style=for-the-badge&logo=OpenAI&logoColor=black"/>
+  <a href="https://github.com/gies-ai-experiments">
+    <img src="https://img.shields.io/badge/AI%20Engineer-@AgentLab-00e0ff?style=for-the-badge&logo=OpenAI&logoColor=black"/>
+  </a>
   <img src="https://img.shields.io/badge/Gies%20College%20of%20Business-001b44?style=for-the-badge&logo=IBM&logoColor=white"/>
 </p>
 
@@ -55,9 +56,9 @@ flowchart LR
 
 ### 🌐 Connect & Collaborate
 
-- 📫 [Email](mailto:kumudas.work@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/kumuda-s/)
-- 🛰️ [Personal Website](https://kumudadev.site/) <!-- Add your links! -->
+- 📫 [Email](mailto:your.email@domain.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
+- 🛰️ [Personal Website](https://yourwebsite.com) <!-- Add your links! -->
 
 ---
 
@@ -68,17 +69,3 @@ flowchart LR
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e0ff,100:a3ffb3&height=80&section=footer"/>
 </div>
-<!--
-**KumudaSG/KumudaSG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
