@@ -13,7 +13,7 @@
 
 ---
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/KumudaSG/KumudaSG/main/assets/ultra-glow.svg" width="24"/> Welcome to My Space <img src="https://raw.githubusercontent.com/KumudaSG/KumudaSG/main/assets/ultra-glow.svg" width="24"/></h2>
+<h2 align="center"> Welcome to My Space </h2>
 
 <p align="center">
   <b>🚧 Building the future with code, systems, and intelligent agents 🚧</b>
