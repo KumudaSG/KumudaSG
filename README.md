@@ -4,12 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e0ff,100:a3ffb3&height=180&section=header&text=KumudaSG%20🚀&fontSize=48&fontAlign=50&fontColor=f8f8ff" alt="header" />
 </div>
 
-<p align="center">
-  <a href="https://github.com/gies-ai-experiments">
-    <img src="https://img.shields.io/badge/AI%20Engineer-@AgentLab-00e0ff?style=for-the-badge&logo=OpenAI&logoColor=black"/>
-  </a>
-  <img src="https://img.shields.io/badge/Gies%20College%20of%20Business-001b44?style=for-the-badge&logo=IBM&logoColor=white"/>
-</p>
 
 ---
 
@@ -22,8 +16,6 @@
 ---
 
 ### 👾 About Me
-
-- 🧑‍💻 AI Software Engineer @ <b>AgentLab</b>, Gies College of Business
 - 🛸 Futurist, system tinkerer, and automation enthusiast
 - ⚡ Always exploring the edge of tech
 
@@ -58,7 +50,6 @@ flowchart LR
 
 - 📫 [Email](mailto:your.email@domain.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-- 🛰️ [Personal Website](https://yourwebsite.com) <!-- Add your links! -->
 
 ---
 
