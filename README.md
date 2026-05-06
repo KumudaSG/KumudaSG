@@ -48,8 +48,8 @@ flowchart LR
 
 ### 🌐 Connect & Collaborate
 
-- 📫 [Email](mailto:your.email@domain.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
+- 📫 [Email](mailto:kumudas.work@gmail.com)
+- 💼 [LinkedIn](linkedin.com/in/kumuda-s/)
 
 ---
 
