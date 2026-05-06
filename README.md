@@ -49,7 +49,7 @@ flowchart LR
 ### 🌐 Connect & Collaborate
 
 - 📫 [Email](mailto:kumudas.work@gmail.com)
-- 💼 [LinkedIn](linkedin.com/in/kumuda-s/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kumuda-s/)
 
 ---
 
